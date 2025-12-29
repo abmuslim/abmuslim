@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I’m currently working on<br>Resource management, admission control, and QoS optimization for edge and cloud systems, with a focus on Kubernetes-based CPU and memory control.<br><br>🤝 I’m looking to collaborate on<br>Edge computing, cloud resource management, networking performance analysis, and systems research projects.<br><br>🆘 I’m looking for help with<br>Real-world evaluation of adaptive controllers and scalable experimentation in heterogeneous edge environments.<br><br>🌱 I’m currently learning<br>Advanced control techniques for distributed systems, performance modeling, and large-scale edge–cloud orchestration.<br><br>💬 Ask me about<br>Kubernetes, Docker, edge computing, latency measurement, TCP, 5G networking, and linux system debugging.<br><br>⚡ Fun fact<br>I enjoy debugging complex systems more than building them from scratch, especially when the problem is hard to reproduce.
+<br>🔭 I’m currently working on<br>Resource management, admission control, and QoS optimization for edge and cloud systems, with a focus on Kubernetes-based CPU and memory control.<br><br>🤝 I’m looking to collaborate on<br>Edge computing, cloud resource management, networking performance analysis, and systems research projects.<br><br>🌱 I’m currently learning<br>Advanced control techniques for distributed systems, performance modeling, and large-scale edge–cloud orchestration.<br><br>💬 Ask me about<br>Kubernetes, Docker, edge computing, latency measurement, TCP, 5G networking, and linux system debugging.<br><br>⚡ Fun fact<br>I enjoy debugging complex systems more than building them from scratch, especially when the problem is hard to reproduce.
 
 
 ## 🌐 Socials:
@@ -12,10 +12,3 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=abmuslim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abmuslim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abmuslim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=abmuslim&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
